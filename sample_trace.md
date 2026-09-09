@@ -1,3 +1,4 @@
+```
 TRACE: conversation_id=xxx
 │
 ├── input
@@ -61,3 +62,4 @@ TRACE: conversation_id=xxx
      ├── handoff
      ├── prefill
      └── user_feedback
+```
