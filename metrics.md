@@ -5,6 +5,7 @@
 | ASR         | WER / entity WER        |
 | Drift       | boundary F1             |
 | Context     | retrieval recall@k      |
+| Retrieval   | Quality of retrieval    |
 | Memory      | useful-memory precision |
 | KG          | relationship accuracy   |
 | Agent       | intent accuracy         |
@@ -52,7 +53,7 @@ MCP tools
 
 - deterministically
 - LLM as a judge
-- HITL
+- Human in the loop - using human rubriks for judgement
 
 #### Success criteria for a task:
 
