@@ -2,8 +2,7 @@
 
 - Experiments
 
-    1. the Card sometimes does flase speaker attribution
-    2. getting a extra reasoningText field in the model output in case of gpt model
+    1. the Card sometimes does false speaker attribution
     3. getting wrong scene classification in some cases
 - Online Traces
 
